@@ -10,3 +10,5 @@ Our partner app lets you view services that are assigned to you and lets you upd
 يتيح لك تطبيق الشريك الخاص بنا عرض الخدمات المخصصة لك، كما يتيح لك تحديث تقدم الحجز الخاص بك.
 Freelancer
 المستقل
+Mark as Dropped Off
+وضع علامة "تم توصيله"
