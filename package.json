@@ -1,0 +1,22 @@
+{
+  "name": "translationconverter",
+  "version": "1.0.0",
+  "description": "/Translation1\r 1. Export data from notepad to JSON Format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilken311/TranslationConverter.git"
+  },
+  "author": "wm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilken311/TranslationConverter/issues"
+  },
+  "homepage": "https://github.com/wilken311/TranslationConverter#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
