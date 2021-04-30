@@ -1,7 +1,7 @@
 Instruction:
 
 Translation1 Folder- Export data from notepad to JSON Format 
-  1. Export data from notepad to JSON Format
+  1. *
 
 Translation2 Folder - Export data from excel to JSON Format
   1. Run "npm install"
