@@ -19,6 +19,7 @@ Translation2 Folder - Export data from excel to JSON Format
   10. Run "node TranslationConverted2.js"
   11. Result will be seen on ar.json and en.json file.
 
+
 Note: Please follow the format on "sample.xlsx"
 Thank You!
 
